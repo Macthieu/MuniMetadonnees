@@ -12,6 +12,11 @@ Produire un enrichissement metadata deterministe et exploitable via contrat CLI 
 - Integrable dans Orchiviste (cockpit/hub) via contrat commun OrchivisteKit.
 - Peut reutiliser la sortie JSON de MuniAnalyse comme seed d'enrichissement.
 
+## Version
+
+- Version de release: `0.2.0`
+- Tag Git: `v0.2.0`
+
 ## Contrat CLI JSON V1
 
 Commande canonique:
